@@ -18,7 +18,7 @@
     <nav class="navbar fixed-top navbar-dark bg-primary">
       <div class="container-fluid">
         <a class="navbar-brand" href="#"
-          >Sentiment Product Recommendation System</a
+          >Sentiment Based Product Recommendation</a
         >
         <button
           class="navbar-toggler"
@@ -47,7 +47,7 @@
                 placeholder="Enter UserName to search..."
               />
               <p>
-                <small>Enter usernames like "02dakota", "123charlie", "08dallas" etc. </small>
+                <small>Enter usernames e.g. "02dakota", "123charlie", "08dallas" etc. </small>
               </p>
             </div>
             <div class="col-sm-2">
@@ -92,7 +92,7 @@
         <div class="row vstack gap-3">
           <div class="row">
             <label for="reviewText" class="form-label"
-              >Enter your Review here</label
+              >Enter Review Text</label
             >
             <textarea
               class="form-control"
@@ -106,18 +106,18 @@
               <input
                 type="submit"
                 class="btn btn-primary float-end"
-                value="Predict Sentiment"
+                value="Predict the Sentiment"
               />
             </div>
           </div>
           <div class="row">
             {% if sentiment == 1%}
             <div class="alert alert-success" role="alert">
-              Entered Review Text is predicted to be Positive
+              Prediction is Positive
             </div>
             {% elif sentiment == 0%}
             <div class="alert alert-danger" role="alert">
-              Entered Review Text is predicted to be Negative
+              Prediction is Negative
             </div>
             {% endif %}
           </div>
@@ -128,7 +128,7 @@
   <footer class="bg-light text-center text-lg-start fixed-bottom">
     <!-- Copyright -->
     <div class="text-center p-3 bg-light">
-      Created by LingaBalaji J, 2022
+      ~~~~Prince Grover ~~~~~~~~
     </div>
     <!-- Copyright -->
   </footer>
