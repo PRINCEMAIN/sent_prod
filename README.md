@@ -1,4 +1,9 @@
-# Sentiment Based Product Recommendation
+
+- 👋 Hi, I’m @PRINCE GROVER
+- 👀 I’m interested in Machine Learning and Artificial Intelligence 
+- 🌱 I’m currently exploring the dataset on Kaggle and have some Assignments from IIIT Bangalore 
+- 📫  You can reach me on princemain@gmail.com  
+- 💞 # Sentiment Based Product Recommendation
 
 ### Problem Statement
 
@@ -10,7 +15,7 @@ The e-commerce business is quite popular today. Here, you do not need to take or
 
 ### Solution
 
-* github link: https://github.com/lingabalaji17/SentimentBasedProductRecommendation
+* github link: https://github.com/PRINCEMAIN/sent_prod
 
 * Heroku (Application is Live): https://senti-product-recommendation.herokuapp.com/
 
