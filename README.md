@@ -17,7 +17,7 @@ The e-commerce business is quite popular today. Here, you do not need to take or
 
 * github link: https://github.com/PRINCEMAIN/sent_prod
 
-* Heroku (Application is Live): https://senti-product-recommendation.herokuapp.com/
+* Heroku (Application is Live): https://sent-prod.herokuapp.com/
 
 ### Built with
 
